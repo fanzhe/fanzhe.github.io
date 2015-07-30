@@ -4,7 +4,7 @@ title:     About
 permalink: /about/
 ---
 
-Vida is a minimalist jekyll theme.
+What I did is called Research!
 
 - Author: Zhe FAN
 - Email:  zfan
