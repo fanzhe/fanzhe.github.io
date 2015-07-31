@@ -2,6 +2,6 @@
 layout:    page
 ---
 
-What I did is called Research.
+I do research.
 
 
