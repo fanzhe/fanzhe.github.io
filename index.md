@@ -45,7 +45,7 @@ IEEE Transactions on Services Computing (TSC’13). Full Paper.
 
 Choi Koon Kau (Byron) and **Zhe Fan**. [“Structure-Preserving Subgraph Queries”](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf). No. 62170122. Filed on 2 June 2015. (Provisional)
 
-### **Recent Project**:
+### **Past Project**:
 
 [Sugar: SecUre GrAph QueRy Services](http://www.comp.hkbu.edu.hk/~bchoi/sugar.html)
 
