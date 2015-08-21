@@ -2,7 +2,7 @@
 layout:    page
 ---
 
-#### Short Bio
+### Short Bio
 
 I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU) in 2015. 
 I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT) in 2011. 
@@ -11,7 +11,7 @@ and a summer intern at Tencent ShenZhen, in 2010.
 I was a member of Database Group at HKBU. 
 
 
-#### Pubulications
+### Pubulications
 
 Z. Fan, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "Structure-Preserving Subgraph Isomorphism Query Services". 
 IEEE Transactions on Knowledge and Data Engineering (TKDE’15). Full Paper.
