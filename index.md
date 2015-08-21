@@ -4,7 +4,7 @@ layout:    page
 
 ### Short Bio
 
-I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU) in 2015. 
+> I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU) in 2015. 
 I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT) in 2011. 
 I was a research visitor at the University of Edinburgh from 2014.10 to 2015.3, 
 and a summer intern at Tencent ShenZhen, in 2010. 
