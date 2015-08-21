@@ -2,7 +2,7 @@
 layout:    page
 ---
 
-### Short Bio
+### **Short Bio**:
 
 I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU) in 2015. 
 I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT) in 2011. 
@@ -10,11 +10,11 @@ I was a research visitor at the University of Edinburgh from 2014.10 to 2015.3,
 and a summer intern at Tencent ShenZhen, in 2010. 
 I was a member of Database Group at HKBU. 
 
-### Technical Report: 
+### **Technical Report**: 
 
 **Z. Fan**, B. Choi. "[On Extensions for Structure-Preserving Subgraph Isomorphism Query Services]()". 2015. 
 
-### Pubulications
+### **Pubulications**:
 
 **Z. Fan**, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "Structure-Preserving Subgraph Isomorphism Query Services". 
 IEEE Transactions on Knowledge and Data Engineering (TKDE’15). Full Paper.
@@ -40,6 +40,6 @@ International Conference on Database Systems for Advanced Applications (DAS- FAA
 **Z. Fan**, Y. Peng, B. Choi, J. Xu and S. Bhowmick. "Towards Efficient Authenticated Subgraph Query Service in Outsourced Graph Databases". 
 IEEE Transactions on Services Computing (TSC’13). Full Paper.
 
-### U.S. Patent
+### **U.S. Patent**:
 
 Choi Koon Kau (Byron) and **Zhe Fan**. [“Structure-Preserving Subgraph Queries”](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf). No. 62170122. Filed on 2 June 2015. (Provisional)
