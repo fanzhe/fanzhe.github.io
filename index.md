@@ -13,7 +13,7 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 ### **Technical Report**: 
 
-**Z. Fan**, B. Choi. "[*On Extensions for Structure-Preserving Subgraph Isomorphism Query Services*](/doc/ESPSUBISO.pdf)". 2015. 
+**Z. Fan** and B. Choi. "[*On Extensions for Structure-Preserving Subgraph Isomorphism Query Services*](/doc/ESPSUBISO.pdf)". 2015. 
 
 ### **Pubulications**:
 
