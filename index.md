@@ -27,7 +27,7 @@ W. Fan, **Z. Fan**, C. Tian, X. Dong. "Keys for Graphs".
 International Conference on Very Large Data Bases (PVLDB’15). Full Paper.
 
 Y. Peng, **Z. Fan**, B. Choi, J. Xu and S. Bhowmick. "Authenticated Subgraph Similarity Search in Outsourced Graph Databases". 
-IEEE Transactions on Knowledge and Data Engi- neering (TKDE’14). Full Paper.
+IEEE Transactions on Knowledge and Data Engineering (TKDE’14). Full Paper.
 
 S. Yin, **Z. Fan**, P. Yi, B. Choi, J. Xu and S. Zhou. "Privacy-Preserving Reachability Query Services". 
 International Conference on Database Systems for Advanced Applications (DASFAA’14). Full Paper.
