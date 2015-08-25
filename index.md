@@ -47,5 +47,5 @@ Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*
 
 ### **Past Project**:
 
-[Sugar: SecUre GrAph QueRy Services](http://www.comp.hkbu.edu.hk/~bchoi/sugar.html). Hong Kong Baptist University. 
+[*Sugar: SecUre GrAph QueRy Services*](http://www.comp.hkbu.edu.hk/~bchoi/sugar.html). Hong Kong Baptist University. 
 
