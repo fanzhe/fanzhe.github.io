@@ -2,7 +2,7 @@
 layout:    page
 ---
 
-### **Short Bio**:
+### **Short Bio** [[CV](/doc/cv_eng.pdf)] [[简历](/doc/cv_chn.pdf)]:
 
 I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU) in 2015, 
 supervised by [Dr. Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/). 
