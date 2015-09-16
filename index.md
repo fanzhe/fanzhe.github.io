@@ -4,10 +4,10 @@ layout:    page
 
 ### **Short Bio** [[CV](/doc/cv_eng.pdf)] [[简历](/doc/cv_chn.pdf)]:
 
-I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU) in 2015, 
+I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU, 香港浸会大学) in 2015, 
 supervised by [Dr. Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/). 
-I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT) in 2011. 
-I was a research visitor at the University of Edinburgh from 2014.10 to 2015.3, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/), 
+I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT, 华南理工大学) in 2011. 
+I was a research visitor at the University of Edinburgh (爱丁堡大学) from 2014.10 to 2015.3, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/), 
 and a summer intern at Tencent Inc., ShenZhen, in 2010. 
 I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU. 
 
