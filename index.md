@@ -41,11 +41,11 @@ IEEE International Conference on Data Engineering (**ICDE'14**) GDM Workshop. **
 **Z. Fan**, Y. Peng, B. Choi, J. Xu and S. Bhowmick. "*Towards Efficient Authenticated Subgraph Query Service in Outsourced Graph Databases*". 
 IEEE Transactions on Services Computing (**TSC'13**). **Full Paper**.
 
-### **U.S. Patent**:
+### **Patents**:
 
 **Zhe Fan** and Yinyan Tan. "*A Method of Automatic Selection for Model Update Strategies (in Chinese)*". 2016. 
 
-Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf)". No. 62170122. Filed on 2 June 2015. (Provisional)
+Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf)". U.S.. No. 62170122. Filed on 2 June 2015. (Provisional)
 
 ### **Technical Report**: 
 
