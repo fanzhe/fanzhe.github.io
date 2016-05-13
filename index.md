@@ -17,6 +17,10 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 ### **Pubulications**:
 
+Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, Eric Xing, Q. Ho. "*Scalable Time-Decaying Adaptive Prediction Algorithm*". ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.
+
+**Z. Fan**, Byron Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". IEEE International Conference on Data Engineering (**ICDE’16**). **Poster Paper**.
+
 **Z. Fan**, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services*". 
 IEEE Transactions on Knowledge and Data Engineering (**TKDE’15**). **Full Paper**.
 
@@ -42,6 +46,8 @@ IEEE International Conference on Data Engineering (**ICDE’14**) GDM Workshop. 
 IEEE Transactions on Services Computing (**TSC’13**). **Full Paper**.
 
 ### **U.S. Patent**:
+
+**Zhe Fan** and Yinyan Tan. "*A Method of Automatic Selection for Model Update Stratigies (in Chinese)*". 2016. 
 
 Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf)". No. 62170122. Filed on 2 June 2015. (Provisional)
 
