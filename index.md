@@ -15,7 +15,7 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, Eric Xing, Q. Ho. "*Scalable Time-Decaying Adaptive Prediction Algorithm*". ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.
 
-**Z. Fan**, Byron Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". IEEE International Conference on Data Engineering (**ICDE'16**). **Poster Paper**.
+Byron Choi, **Z. Fan**, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". IEEE International Conference on Data Engineering (**ICDE'16**). **Poster Paper**.
 
 **Z. Fan**, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services*". 
 IEEE Transactions on Knowledge and Data Engineering (**TKDE'15**). **Full Paper**.
