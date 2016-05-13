@@ -11,10 +11,6 @@ I was a research visitor at the University of Edinburgh (爱丁堡大学) from 2
 and a summer intern at Tencent Inc., ShenZhen, in 2010. 
 I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU. 
 
-### **Technical Report**: 
-
-**Z. Fan** and B. Choi. "[*On Extensions for Structure-Preserving Subgraph Isomorphism Query Services*](/doc/ESPSUBISO.pdf)". 2015. 
-
 ### **Pubulications**:
 
 Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, Eric Xing, Q. Ho. "*Scalable Time-Decaying Adaptive Prediction Algorithm*". ACM Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.
@@ -47,9 +43,13 @@ IEEE Transactions on Services Computing (**TSC'13**). **Full Paper**.
 
 ### **U.S. Patent**:
 
-**Zhe Fan** and Yinyan Tan. "*A Method of Automatic Selection for Model Update Stratigies (in Chinese)*". 2016. 
+**Zhe Fan** and Yinyan Tan. "*A Method of Automatic Selection for Model Update Strategies (in Chinese)*". 2016. 
 
 Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf)". No. 62170122. Filed on 2 June 2015. (Provisional)
+
+### **Technical Report**: 
+
+**Z. Fan** and B. Choi. "[*On Extensions for Structure-Preserving Subgraph Isomorphism Query Services*](/doc/ESPSUBISO.pdf)". 2015. 
 
 ### **Past Project**:
 
