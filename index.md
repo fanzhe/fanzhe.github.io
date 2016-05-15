@@ -13,10 +13,10 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 ### **Pubulications**:
 
-Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, [Eric Xing](http://www.cs.cmu.edu/~epxing/), Q. Ho. "*Scalable Time-Decaying Adaptive Prediction Algorithm*". 
+Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, [Eric Xing](http://www.cs.cmu.edu/~epxing/), [Qirong Ho](https://sites.google.com/site/hoqirong). "*Scalable Time-Decaying Adaptive Prediction Algorithm*". 
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.
 
-[Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/), **Z. Fan**, Q. Chen, [Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/) and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
+[Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/), **Z. Fan**, Q. Chen, [Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/) and [Sourav S Bhowmick](http://www.cais.ntu.edu.sg/assourav/). "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
 IEEE International Conference on Data Engineering (**ICDE'16**). **Poster Paper**.
 
 **Z. Fan**, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services*". 
@@ -34,7 +34,7 @@ IEEE International Conference on Data Engineering (**ICDE'15**). **Demo Paper**.
 Y. Peng, **Z. Fan**, B. Choi, J. Xu and S. Bhowmick. "*Authenticated Subgraph Similarity Search in Outsourced Graph Databases*". 
 IEEE Transactions on Knowledge and Data Engineering (**TKDE'14**). **Full Paper**.
 
-S. Yin, **Z. Fan**, P. Yi, B. Choi, J. Xu and S. Zhou. "*Privacy-Preserving Reachability Query Services*". 
+S. Yin, **Z. Fan**, P. Yi, B. Choi, J. Xu and [Shuigeng Zhou](http://admis.fudan.edu.cn/~sgzhou/). "*Privacy-Preserving Reachability Query Services*". 
 International Conference on Database Systems for Advanced Applications (**DASFAA'14**). **Full Paper**.
 
 P. Yi, **Z. Fan**, and S. Yin. "*Privacy-Preserving Reachability Query Services for Sparse Graph*". 
