@@ -16,7 +16,7 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, [Eric Xing](http://www.cs.cmu.edu/~epxing/), Q. Ho. "*Scalable Time-Decaying Adaptive Prediction Algorithm*". 
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.
 
-Byron Choi, **Z. Fan**, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
+[Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/), **Z. Fan**, Q. Chen, [Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/) and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
 IEEE International Conference on Data Engineering (**ICDE'16**). **Poster Paper**.
 
 **Z. Fan**, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services*". 
@@ -25,7 +25,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE'15**). **Full Paper*
 **Z. Fan**, B. Choi, J. Xu and S. Bhowmick. "*Asymmetric Structure-Preserving Subgraph Queries for Large Graphs*". 
 IEEE International Conference on Data Engineering (**ICDE'15**). **Full Paper**.
 
-Wenfei Fan, **Z. Fan**, C. Tian, [Xin Dong](http://lunadong.com). "*Keys for Graphs*". 
+[Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/), **Z. Fan**, C. Tian, [Xin Dong](http://lunadong.com). "*Keys for Graphs*". 
 International Conference on Very Large Data Bases (**PVLDB'15**). **Full Paper**.
 
 X. Xie, **Z. Fan**, B. Choi, P. Yi, S. Bhowmick and S. Zhou. "*PIGEON: Progress Indicator for Subgraph Queries*". 
