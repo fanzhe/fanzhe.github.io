@@ -14,7 +14,7 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 ### **Pubulications**:
 
 Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, [Eric Xing](http://www.cs.cmu.edu/~epxing/), [Qirong Ho](https://sites.google.com/site/hoqirong). "*Scalable Time-Decaying Adaptive Prediction Algorithm*". 
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**.[PDF](/doc/tdap_kdd16.pdf)
 
 [Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/), **Z. Fan**, Q. Chen, [Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/) and [Sourav S Bhowmick](http://www.cais.ntu.edu.sg/assourav/). "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
 IEEE International Conference on Data Engineering (**ICDE'16**). **Poster Paper**.
