@@ -51,7 +51,7 @@ Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*
 
 ### **Technical Report**: 
 
-**Z. Fan** and B. Choi. "[*On Extensions for Structure-Preserving Subgraph Isomorphism Query Services*](/doc/ESPSUBISO.pdf)". 2015. 
+**Z. Fan** and B. Choi. "*On Extensions for Structure-Preserving Subgraph Isomorphism Query Services*". 2015. [[PDF]((/doc/ESPSUBISO.pdf))] 
 
 ### **Past Project**:
 
