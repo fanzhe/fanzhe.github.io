@@ -45,6 +45,8 @@ IEEE Transactions on Services Computing (**TSC'13**). **Full Paper**.
 
 ### **Patents**:
 
+**Zhe Fan** and Fangshan Wang. "*A Method of Intelligent Analysis for data semantics (in Chinese)*". 2017. 
+
 **Zhe Fan** and Yinyan Tan. "*A Method of Automatic Selection for Model Update Strategies (in Chinese)*". 2016. 
 
 Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf)". U.S.. No. 62170122. Filed on 2 June 2015. (Provisional)
