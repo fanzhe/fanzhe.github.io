@@ -4,7 +4,8 @@ layout:    page
 
 ### **Short Bio** [[CV](/doc/cv_eng.pdf)] [[简历](/doc/cv_chn.pdf)]:
 
-I am now a Big Data Researcher in Huawei since 2016, solving challenging problems on Recommender System, Customer Relationship Management System and Convergent Billing System, with state-of-the-art Machine Learning and Data Mining Techniques. 
+I am now a Big Data Researcher in Huawei since 2016, solving challenging problems on Recommender System, Customer Relationship Management System and Convergent Billing System, using state-of-the-art Machine Learning and Data Mining Techniques. 
+
 I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU, 香港浸会大学) in 2015, 
 supervised by [Dr. Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/). 
 I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT, 华南理工大学) in 2011. 
