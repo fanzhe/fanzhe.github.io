@@ -4,7 +4,7 @@ layout:    page
 
 ### **Short Bio** [[CV](/doc/cv_eng.pdf)] [[简历](/doc/cv_chn.pdf)]:
 
-I am now a Big Data Researcher in Huawei since 2016, solving challenging problems on Recommender System, Customer Relationship Management System and Convergent Billing System, using state-of-the-art Machine Learning and Data Mining Techniques. 
+I am now a Big Data Researcher in Huawei since 2016, solving challenging problems on Recommender System, Convergent Billing System and Customer Relationship Management System, using state-of-the-art Machine Learning and Data Mining Techniques. 
 
 I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU, 香港浸会大学) in 2015, 
 supervised by [Dr. Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/). 
@@ -15,10 +15,15 @@ I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU.
 
 ### **Pubulications**:
 
+[Xin Lin](http://faculty.ecnu.edu.cn/s/861/main.jspy), [Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/), 
+[Haibo Hu](http://www.haibohu.org/wordpress/), **Z. Fan**. 
+"*Reducing Uncertainty of Probabilistic Top-k Ranking via Pairwise Crowdsourcing*". 
+IEEE Transactions on Knowledge and Data Engineering (**TKDE'17**). **Full Paper**.
+
 Y. Tan, **Z. Fan**, G. Li, F. Wang, Z. Li, S. Liu, Q. Pan, [Eric Xing](http://www.cs.cmu.edu/~epxing/), [Qirong Ho](https://sites.google.com/site/hoqirong). "*Scalable Time-Decaying Adaptive Prediction Algorithm*". 
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD'16**). **Full Paper**. [[PDF](/doc/tdap_kdd16.pdf)]
 
-[Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/), **Z. Fan**, Q. Chen, [Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/) and [Sourav S Bhowmick](http://www.cais.ntu.edu.sg/assourav/). "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
+[Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/), **Z. Fan**, Q. Chen, J. Xu and [Sourav S Bhowmick](http://www.cais.ntu.edu.sg/assourav/). "*Structure-Preserving Subgraph Isomorphism Query Services (Abstract Extension)*". 
 IEEE International Conference on Data Engineering (**ICDE'16**). **Poster Paper**.
 
 **Z. Fan**, B. Choi, Q. Chen, J. Xu and S. Bhowmick. "*Structure-Preserving Subgraph Isomorphism Query Services*". 
@@ -52,6 +57,10 @@ IEEE Transactions on Services Computing (**TSC'13**). **Full Paper**.
 **Zhe Fan** and Yinyan Tan. "*A Method on Automatic Selection for Model Update Strategies (in Chinese)*". 2016. 
 
 Choi Koon Kau (Byron) and **Zhe Fan**. "[*Structure-Preserving Subgraph Queries*](http://www.comp.hkbu.edu.hk/~bchoi/Summary%20of%20the%20US%20Patent%20titled%20Structure%20Preserving%20Subgraph%20Queries.pdf)". U.S.. No. 62170122. Filed on 2 June 2015. (Provisional)
+
+### **Reviewer**:
+
+2017 IEEE Transactions on Knowledge and Data Engineering (TKDE'17), CCF A, JCR Q1 (JCR一区)
 
 ### **Technical Report**: 
 
