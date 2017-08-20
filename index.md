@@ -2,7 +2,7 @@
 layout:    page
 ---
 
-### **Short Bio** [[CV](/doc/cv_eng.pdf)] [[简历](/doc/cv_chn.pdf)]:
+### **Short Bio** [[CV](/doc/cv.pdf)]:
 
 I am now a Big Data Researcher in Huawei since 2016, solving challenging problems on Recommender System, Convergent Billing System and Customer Relationship Management System, using state-of-the-art Machine Learning and Data Mining Techniques. 
 
