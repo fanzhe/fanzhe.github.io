@@ -8,11 +8,9 @@ layout:    page
 I am now a Quant in China Merchants Securities (CMS) since 2018-01, optimizing Options Market Making using Deep Learning and Deep Reinforcement Learning.  
 
 I was a Machine Learning Researcher in Huawei from 2015-10 to 2017-12, focusing on Recommender System, Convergent Billing System and Customer Relationship Management System.  
-I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU, 香港浸会大学) in 2015, 
-supervised by [Dr. Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/). 
+I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Baptist University (HKBU, 香港浸会大学) in 2015, supervised by [Dr. Byron Choi](http://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](http://www.comp.hkbu.edu.hk/~xujl/). 
 I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT, 华南理工大学) in 2011. 
-I was a research visitor at the University of Edinburgh (爱丁堡大学) from 2014.10 to 2015.3, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/), 
-and a summer intern at Tencent Inc., ShenZhen, in 2010. 
+I was a research visitor at the University of Edinburgh (爱丁堡大学) from 2014.10 to 2015.3, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/), and a summer intern at Tencent Inc., ShenZhen, in 2010. 
 I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU. 
 
 ### **Pubulications**:
