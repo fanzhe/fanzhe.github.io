@@ -12,6 +12,7 @@ I obtained my Ph.D degree in Computer Science Department, from the Hong Kong Bap
 I received my Bachelor of Engineering degree in School of Computer Science and Engineering, from the South China University of Technology (SCUT, 华南理工大学) in 2011. 
 I was a research visitor at the University of Edinburgh (爱丁堡大学) from 2014.10 to 2015.3, supervised by [Prof. Wenfei Fan](http://homepages.inf.ed.ac.uk/wenfei/), and a summer intern at Tencent Inc., ShenZhen, in 2010. 
 I was a member of [Database Group](http://www.comp.hkbu.edu.hk/~db/) at HKBU. 
+I was happy to receive [ShenZhen Peacock Program C](http://www.szhrss.gov.cn/ztfw/gccrc/xwgg/kqjh/) in 2018. 
 
 ### **Pubulications**:
 
